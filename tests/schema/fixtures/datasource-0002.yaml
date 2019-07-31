@@ -1,5 +1,0 @@
-datasource:
-  name: New datasource
-  url: http://example.org
-  type: influxdb
-  database: foodb

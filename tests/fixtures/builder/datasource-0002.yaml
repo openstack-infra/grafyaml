@@ -1,3 +1,0 @@
-datasource:
-  name: Default
-  url: http://graphite.example.net:8080

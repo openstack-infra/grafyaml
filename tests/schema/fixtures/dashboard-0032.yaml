@@ -1,8 +1,0 @@
-dashboard:
-  templating:
-    - name: foobar
-      datasource: telegraf
-      hide: 0
-      label: "Influxdb filter"
-      type: adhoc
-  title: New dashboard

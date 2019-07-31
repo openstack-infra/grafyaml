@@ -1,5 +1,0 @@
-datasource:
-  name: New prometheus datasource
-  url: http://example.org:9090
-  access: proxy
-  type: prometheus
